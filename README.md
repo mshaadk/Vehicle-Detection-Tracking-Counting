@@ -125,5 +125,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 ## Author
 Created by Mohamed Shaad Kunhimohamed
 
-[LinkedIn](https://www.linkedin.com/in/mohamedshaad/)
-[GitHub](https://github.com/mshaadk)
+- [LinkedIn](https://www.linkedin.com/in/mohamedshaad/)
+- [GitHub](https://github.com/mshaadk)
